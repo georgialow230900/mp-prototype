@@ -92,8 +92,8 @@ font-family: 'Noto Serif', serif;
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #d61f31;
+  border-color: #d61f31;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -122,12 +122,12 @@ font-family: 'Noto Serif', serif;
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #d61f31;
   font-family: 'Noto Serif', serif;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #d61f31;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -171,7 +171,7 @@ font-family: 'Noto Serif', serif;
 
 header.masthead {
   text-align: center;
-  color: white;
+  color: #d61f31;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
