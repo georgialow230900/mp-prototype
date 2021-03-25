@@ -99,7 +99,7 @@ font-family: 'Noto Serif', serif;
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: #fec810 !important;
   border-color: #fec810 !important;
-  color: white;
+  color: #d61f31;
 }
 
 .btn-primary:active, .btn-primary:focus {
@@ -618,25 +618,25 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #ced4da;
+  color: #d61f31;
 font-family: 'Noto Serif', serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
-  color: #ced4da;
+  color: #d61f31;
 font-family: 'Noto Serif', serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
-  color: #ced4da;
+  color: #d61f31;
 font-family: 'Noto Serif', serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
-  color: #ced4da;
+  color: #d61f31;
 font-family: 'Noto Serif', serif;
 }
 
@@ -678,5 +678,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #d61f31;
 }
