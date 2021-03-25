@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #d61f31;
+  color: #fec503;
 }
 
 .text-primary {
@@ -140,7 +140,7 @@ font-family: 'Noto Serif', serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #d61f31;
 }
 
 @media (min-width: 992px) {
